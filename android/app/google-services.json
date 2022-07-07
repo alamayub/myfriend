@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938546412757",
+    "project_id": "my-friend-9b6fb",
+    "storage_bucket": "my-friend-9b6fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938546412757:android:536199a276d3136a75365c",
+        "android_client_info": {
+          "package_name": "com.fourcoders.myfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938546412757-0epd474eknajqo4am9tcl09v8a4qhj62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqWfA9pbX-x4sNg8c5tKx2T4g2llB3Vso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938546412757-0epd474eknajqo4am9tcl09v8a4qhj62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
